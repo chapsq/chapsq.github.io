@@ -105,7 +105,7 @@ list-style-type: none;
 	}
 
 	h3 {
-		font-size: 1.5em;
+		font-size: 1.8em;
 		line-height: 1.5em;
 	}
 
@@ -114,7 +114,7 @@ list-style-type: none;
 	}
 
 	h4 {
-		font-size: 1.3em;
+		font-size: 1.5em;
 		line-height: 1.5em;
 	}
 
@@ -189,11 +189,11 @@ list-style-type: none;
 	
 	.align-left-title {
 		text-align: left;
-		margin-left: 185px
+		margin-left: 195px
 	}
 	
 	.align-right-subtitle {
-		margin-left: 710px
+		margin-left: 725px
 	}
 	}
 
