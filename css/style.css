@@ -186,9 +186,6 @@ list-style-type: none;
 			overflow-x: auto;
 		}
 
-	.align-left-title {
-		text-align: left;
-	}
 	
 	.align-left-title {
 		text-align: left;
@@ -196,7 +193,7 @@ list-style-type: none;
 	}
 	
 	.align-right-subtitle {
-		margin-left: 1240px
+		margin-left: 1000px
 	}
 	}
 
