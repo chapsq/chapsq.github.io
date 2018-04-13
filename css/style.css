@@ -189,7 +189,7 @@ list-style-type: none;
 	
 	.align-left-title {
 		text-align: left;
-		margin-left: 240px
+		margin-left: 220px
 	}
 	
 	.align-right-subtitle {
@@ -4380,9 +4380,9 @@ height:100%;
 }
 
 .fa {
-    padding: 10px;
-    font-size: 30px;
-    width: 40px;
+    padding: 7px;
+    font-size: 25px;
+    width: 35px;
     text-align: center;
     text-decoration: none;
     border-radius: 50%;
