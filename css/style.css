@@ -189,7 +189,7 @@ list-style-type: none;
 	
 	
 	.align-right-subtitle {
-		margin-left: 735px
+		margin-left: 800px
 	}
 	}
 
@@ -1015,7 +1015,7 @@ list-style-type: none;
 
 	#banner {
 		background: url("../images/banner2.png");
-		height: 280px;
+		height: 400px;
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: 75%;
@@ -1026,7 +1026,7 @@ list-style-type: none;
 	
 		.align-left-title {
 		text-align: left;
-		margin-left: 195px;
+		margin-left: 290px;
 		margin-bottom: 0px
 	}
 		#banner h1 {
@@ -1034,7 +1034,7 @@ list-style-type: none;
 			font-size: 2.6em;
 			line-height: 1em;
 			padding: 0;
-			padding-top:200px
+			padding-top:280px
 		}
 		
 		#banner h2 {
