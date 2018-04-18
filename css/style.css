@@ -187,10 +187,6 @@ list-style-type: none;
 		}
 
 	
-	.align-left-title {
-		text-align: left;
-		margin-left: 195px
-	}
 	
 	.align-right-subtitle {
 		margin-left: 725px
@@ -1007,12 +1003,19 @@ list-style-type: none;
 			#header .container nav {
 				right: 0;
 			}
+			
+	#ambulance {
+		margin-right:0px;
+		padding-right:0px;
+		padding-right:0px;
+	
+	}
 
 /* Banner */
 
 	#banner {
 		background: url("../images/banner2.png");
-		height: 1500;
+		height: 280px;
 		background-position: center;
 		background-repeat: no-repeat;
 		background-size: 75%;
@@ -1020,7 +1023,20 @@ list-style-type: none;
 		padding: 0em 0em 0em;
 		text-align: center;
 	}
-
+	
+		.align-left-title {
+		text-align: left;
+		margin-left: 195px;
+		margin-bottom: 0px
+	}
+		#banner h1 {
+			color: #ffffff;
+			font-size: 3em;
+			line-height: 1em;
+			padding: 0;
+			padding-top:200px
+		}
+		
 		#banner h2 {
 			color: #ffffff;
 			font-size: 3em;
@@ -1028,6 +1044,7 @@ list-style-type: none;
 			margin: 0 0 0.5em 0;
 			padding: 0;
 		}
+
 
 		#banner p {
 			font-size: 1.5em;
